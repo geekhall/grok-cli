@@ -1,5 +1,5 @@
 # README
-在终端中使用xAI的grok-beta模型。
+Use xAI's grok-beta in the Terminal.
 
 _Read this in other languages:_
 [_简体中文_](README.md)
